@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2946d9634ba1286b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1cb2e15a90dc920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "374cbe3670bf2144",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "21a29a46222d2ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常见的pe结构的恶意代码反调试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9545e33a5ca0a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed2b730fd212137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71a97c6d8bf0150",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1ef3fe1bfb9ba79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "817c10de7b8fd3ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "977a6b85efbff42f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ff6dd891d4ecf48",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec45645cca0dd03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1651462e06d6643",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常见的pe结构的恶意代码反调试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c897492af912202",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "常见的pe结构的恶意代码反调试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e79c1e154a39e33b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a01736aa9f704a45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "常见的pe结构的恶意代码反调试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "21a29a46222d2ef5",
+  "lastOpenFiles": [
+    "PE结构.md",
+    "常见的pe结构的恶意代码反调试.md",
+    "常见的pe结构的恶意代码加壳.md",
+    "PIC/11.png",
+    "od基础.md",
+    "汇编.md",
+    "PIC/10.png",
+    "域环境.md",
+    "IDA.md",
+    "PIC/9.png",
+    "PIC/8.png",
+    "行为分析.md",
+    "PIC/7.png",
+    "常见的pe结构的恶意代码脱壳.md",
+    "PIC/6.png",
+    "PIC/5.png",
+    "PIC/4.png",
+    "PIC/3.png",
+    "PIC/2.png",
+    "2)1.png.md",
+    "PIC",
+    "2023-05-20.md",
+    "2023-05-06.md"
+  ]
+}

@@ -1,0 +1,10 @@
+math-field {
+  font-size: 2rem;
+}
+
+.submit {
+  float: right;
+
+  background-color: green !important;
+  color: white;
+}
