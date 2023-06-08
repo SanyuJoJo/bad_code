@@ -1,4 +1,7 @@
 [
   "cmenu-plugin",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "obsidian-minimal-settings",
+  "mathlive",
+  "obsidian-git"
 ]

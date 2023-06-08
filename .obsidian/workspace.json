@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "21a29a46222d2ef5",
+            "id": "a1d7b98a4f63f206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见的pe结构的恶意代码反调试.md",
+                "file": "常见的pe结构的恶意代码反反调试.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见的pe结构的恶意代码反调试.md",
+                "file": "常见的pe结构的恶意代码反反调试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见的pe结构的恶意代码反调试.md",
+                "file": "常见的pe结构的恶意代码反反调试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见的pe结构的恶意代码反调试.md"
+                "file": "常见的pe结构的恶意代码反反调试.md"
               }
             }
           }
@@ -163,22 +163,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21a29a46222d2ef5",
+  "active": "a1d7b98a4f63f206",
   "lastOpenFiles": [
-    "PE结构.md",
+    "常见的pe结构的恶意代码反反调试.md",
     "常见的pe结构的恶意代码反调试.md",
+    "PE结构.md",
+    "行为分析.md",
+    "code/反调试/1/test.exe",
+    "code/反调试/1/test.cpp",
+    "code/反调试/1/test.c++",
+    "code/反调试/1",
+    "常见的pe结构的恶意代码脱壳.md",
+    "汇编.md",
     "常见的pe结构的恶意代码加壳.md",
     "PIC/11.png",
     "od基础.md",
-    "汇编.md",
     "PIC/10.png",
     "域环境.md",
     "IDA.md",
     "PIC/9.png",
     "PIC/8.png",
-    "行为分析.md",
     "PIC/7.png",
-    "常见的pe结构的恶意代码脱壳.md",
     "PIC/6.png",
     "PIC/5.png",
     "PIC/4.png",
