@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1cb2e15a90dc920",
+        "id": "715124d1496de0c2",
         "type": "tabs",
         "children": [
           {
-            "id": "374cbe3670bf2144",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "21a29a46222d2ef5",
+            "id": "a06fde4cd3457a2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.常见的pe结构的恶意代码加壳.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1ec37122cefc557",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14.vba基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f66ad62f17912eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15.vba分析.md",
+                "file": "7.静态分析的结构和经验.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15.vba分析.md",
+                "file": "7.静态分析的结构和经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15.vba分析.md",
+                "file": "7.静态分析的结构和经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15.vba分析.md"
+                "file": "7.静态分析的结构和经验.md"
               }
             }
           }
@@ -188,11 +155,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f66ad62f17912eb6",
+  "active": "e71a97c6d8bf0150",
   "lastOpenFiles": [
+    "9.常见的pe结构的恶意代码加壳.md",
     "14.vba基础.md",
-    "15.vba分析.md",
+    "16.powershell基础.md",
     "域环境.md",
+    "15.vba分析.md",
     "5.IDA.md",
     "-/行为分析.md",
     "-/汇编.md",
@@ -202,7 +171,6 @@
     "10.常见的pe结构的恶意代码脱壳.md",
     "-/常见的pe结构的恶意代码反反调试.md",
     "12.常见的pe结构的恶意代码反反调试.md",
-    "9.常见的pe结构的恶意代码加壳.md",
     "-/常见的pe结构的恶意代码加壳.md",
     "-/域环境.md",
     "-/code/反调试/1/test.exe",
