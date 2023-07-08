@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.静态分析的结构和经验.md",
+                "file": "16.powershell基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.静态分析的结构和经验.md",
+                "file": "16.powershell基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.静态分析的结构和经验.md",
+                "file": "16.powershell基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.静态分析的结构和经验.md"
+                "file": "16.powershell基础.md"
               }
             }
           }
@@ -155,12 +155,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e71a97c6d8bf0150",
+  "active": "a06fde4cd3457a2e",
   "lastOpenFiles": [
+    "域环境.md",
+    "7.静态分析的结构和经验.md",
     "9.常见的pe结构的恶意代码加壳.md",
     "14.vba基础.md",
     "16.powershell基础.md",
-    "域环境.md",
     "15.vba分析.md",
     "5.IDA.md",
     "-/行为分析.md",
@@ -195,7 +196,6 @@
     "-",
     "13.针对pe结构的综合分析.md",
     "6.od基础.md",
-    "7.静态分析的结构和经验.md",
     "4.PE结构.md",
     "3.汇编.md",
     "8.行为分析.md",
