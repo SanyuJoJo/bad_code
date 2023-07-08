@@ -16,19 +16,43 @@
             }
           },
           {
-            "id": "a1d7b98a4f63f206",
+            "id": "21a29a46222d2ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见的pe结构的恶意代码反反调试.md",
+                "file": "9.常见的pe结构的恶意代码加壳.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ec37122cefc557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14.vba基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f66ad62f17912eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.vba分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见的pe结构的恶意代码反反调试.md",
+                "file": "15.vba分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见的pe结构的恶意代码反反调试.md",
+                "file": "15.vba分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见的pe结构的恶意代码反反调试.md"
+                "file": "15.vba分析.md"
               }
             }
           }
@@ -160,38 +184,55 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a1d7b98a4f63f206",
+  "active": "f66ad62f17912eb6",
   "lastOpenFiles": [
-    "常见的pe结构的恶意代码反反调试.md",
-    "常见的pe结构的恶意代码反调试.md",
-    "PE结构.md",
-    "行为分析.md",
-    "code/反调试/1/test.exe",
-    "code/反调试/1/test.cpp",
-    "code/反调试/1/test.c++",
-    "code/反调试/1",
-    "常见的pe结构的恶意代码脱壳.md",
-    "汇编.md",
-    "常见的pe结构的恶意代码加壳.md",
-    "PIC/11.png",
-    "od基础.md",
-    "PIC/10.png",
+    "14.vba基础.md",
+    "15.vba分析.md",
     "域环境.md",
-    "IDA.md",
-    "PIC/9.png",
-    "PIC/8.png",
-    "PIC/7.png",
-    "PIC/6.png",
-    "PIC/5.png",
-    "PIC/4.png",
-    "PIC/3.png",
-    "PIC/2.png",
+    "5.IDA.md",
+    "-/行为分析.md",
+    "-/汇编.md",
+    "-/常见的pe结构的恶意代码脱壳.md",
+    "11.常见的pe结构的恶意代码反调试.md",
+    "-/常见的pe结构的恶意代码反调试.md",
+    "10.常见的pe结构的恶意代码脱壳.md",
+    "-/常见的pe结构的恶意代码反反调试.md",
+    "12.常见的pe结构的恶意代码反反调试.md",
+    "9.常见的pe结构的恶意代码加壳.md",
+    "-/常见的pe结构的恶意代码加壳.md",
+    "-/域环境.md",
+    "-/code/反调试/1/test.exe",
+    "-/code/反调试/1/test.cpp",
+    "-/code/反调试/1",
+    "-/PIC/9.png",
+    "-/PIC/8.png",
+    "-/PIC/7.png",
+    "-/PIC/6.png",
+    "-/PIC/5.png",
+    "-/PIC/4.png",
+    "-/PIC/3.png",
+    "-/PIC/2.png",
+    "-/PIC/11.png",
+    "-/PIC/10.png",
+    "-/code/反调试",
+    "-/PIC",
+    "-/PE结构.md",
+    "-/od基础.md",
+    "-/IDA.md",
+    "-/code",
+    "-",
+    "13.针对pe结构的综合分析.md",
+    "6.od基础.md",
+    "7.静态分析的结构和经验.md",
+    "4.PE结构.md",
+    "3.汇编.md",
+    "8.行为分析.md",
+    "PIC/19",
     "2)1.png.md",
-    "PIC",
-    "2023-05-20.md",
-    "2023-05-06.md"
+    "PIC"
   ]
 }
