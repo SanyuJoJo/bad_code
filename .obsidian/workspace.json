@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "715124d1496de0c2",
+        "id": "53d27d53724107b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a06fde4cd3457a2e",
+            "id": "543a7b0ca39ac041",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,13 +155,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a06fde4cd3457a2e",
+  "active": "543a7b0ca39ac041",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "16.powershell基础.md",
     "PIC/16.powershell基础/image-2023070907.png",
     "PIC/16.powershell基础/image-20230709072811380.png",
     "PIC/16.powershell基础",
     "PIC/13.png",
-    "16.powershell基础.md",
     "assets/16.powershell基础/image-20230709072531936.png",
     "15.vba分析.md",
     "assets/16.powershell基础",
@@ -191,7 +192,6 @@
     "-/PIC/9.png",
     "-/PIC/8.png",
     "-/PIC/7.png",
-    "-/PIC/6.png",
     "-/code/反调试",
     "-/PIC",
     "-/PE结构.md",
