@@ -157,8 +157,9 @@
   },
   "active": "543a7b0ca39ac041",
   "lastOpenFiles": [
-    "5.IDA.md",
+    "9.常见的pe结构的恶意代码加壳.md",
     "16.powershell基础.md",
+    "5.IDA.md",
     "域环境.md",
     "未命名.canvas",
     "PIC/16.powershell基础/image-2023070907.png",
@@ -174,7 +175,6 @@
     "14.png",
     "13.png",
     "7.静态分析的结构和经验.md",
-    "9.常见的pe结构的恶意代码加壳.md",
     "14.vba基础.md",
     "-/行为分析.md",
     "-/汇编.md",
