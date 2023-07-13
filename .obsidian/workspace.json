@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b17f701a204d55d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18.综合防御.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18.综合防御.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18.综合防御.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -180,8 +192,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "33f4674d89399320",
+  "active": "b17f701a204d55d5",
   "lastOpenFiles": [
+    "18.综合防御.md",
+    "未命名.md",
     "PIC/18.综合防御/image-2023071222 2.png",
     "PIC/18.综合防御/image-2023071222 1.png",
     "PIC/18.综合防御/image-2023071222.png",
@@ -192,7 +206,6 @@
     "PIC/18.综合防御/image-2023071208.png",
     "PIC/18.综合防御",
     "17.powershell分析.md",
-    "18.综合防御.md",
     "未命名",
     "16.powershell基础.md",
     "9.常见的pe结构的恶意代码加壳.md",
@@ -202,7 +215,6 @@
     "PIC/16.powershell基础/image-2023070907.png",
     "PIC/16.powershell基础/image-20230709072811380.png",
     "PIC/16.powershell基础",
-    "PIC/13.png",
     "15.vba分析.md",
     "assets/16.powershell基础",
     "assets",
