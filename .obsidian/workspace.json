@@ -194,6 +194,10 @@
   },
   "active": "b17f701a204d55d5",
   "lastOpenFiles": [
+    "4.PE结构.md",
+    "3.汇编.md",
+    "6.od基础.md",
+    "5.IDA.md",
     "19.attck &人工智能.md",
     "18.综合防御.md",
     "PIC/18.综合防御/image-2023071222 2.png",
@@ -209,7 +213,6 @@
     "未命名",
     "16.powershell基础.md",
     "9.常见的pe结构的恶意代码加壳.md",
-    "5.IDA.md",
     "域环境.md",
     "未命名.canvas",
     "PIC/16.powershell基础/image-2023070907.png",
@@ -237,9 +240,6 @@
     "-/code/反调试",
     "-/PIC",
     "-/PE结构.md",
-    "-/od基础.md",
-    "-/IDA.md",
-    "13.针对pe结构的综合分析.md",
-    "6.od基础.md"
+    "-/od基础.md"
   ]
 }
