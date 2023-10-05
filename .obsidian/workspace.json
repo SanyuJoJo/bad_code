@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.IDA.md",
+                "file": "19.attck &人工智能.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.IDA.md",
+                "file": "19.attck &人工智能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.IDA.md",
+                "file": "19.attck &人工智能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.IDA.md"
+                "file": "19.attck &人工智能.md"
               }
             }
           }
@@ -194,12 +194,18 @@
   },
   "active": "b17f701a204d55d5",
   "lastOpenFiles": [
-    "4.PE结构.md",
-    "3.汇编.md",
+    "域环境.md",
+    "18.综合防御.md",
+    "13.针对pe结构的综合分析.md",
+    "10.常见的pe结构的恶意代码脱壳.md",
+    "9.常见的pe结构的恶意代码加壳.md",
+    "8.行为分析.md",
+    "7.静态分析的结构和经验.md",
     "6.od基础.md",
     "5.IDA.md",
+    "4.PE结构.md",
+    "3.汇编.md",
     "19.attck &人工智能.md",
-    "18.综合防御.md",
     "PIC/18.综合防御/image-2023071222 2.png",
     "PIC/18.综合防御/image-2023071222 1.png",
     "PIC/18.综合防御/image-2023071222.png",
@@ -212,8 +218,6 @@
     "17.powershell分析.md",
     "未命名",
     "16.powershell基础.md",
-    "9.常见的pe结构的恶意代码加壳.md",
-    "域环境.md",
     "未命名.canvas",
     "PIC/16.powershell基础/image-2023070907.png",
     "PIC/16.powershell基础/image-20230709072811380.png",
@@ -222,14 +226,12 @@
     "assets/16.powershell基础",
     "assets",
     "K$5PFYJV@MRZM)T@%YIZ[[U.png.md",
-    "7.静态分析的结构和经验.md",
     "14.vba基础.md",
     "-/行为分析.md",
     "-/汇编.md",
     "-/常见的pe结构的恶意代码脱壳.md",
     "11.常见的pe结构的恶意代码反调试.md",
     "-/常见的pe结构的恶意代码反调试.md",
-    "10.常见的pe结构的恶意代码脱壳.md",
     "-/常见的pe结构的恶意代码反反调试.md",
     "12.常见的pe结构的恶意代码反反调试.md",
     "-/常见的pe结构的恶意代码加壳.md",
@@ -238,8 +240,6 @@
     "-/code/反调试/1/test.cpp",
     "-/code/反调试/1",
     "-/code/反调试",
-    "-/PIC",
-    "-/PE结构.md",
-    "-/od基础.md"
+    "-/PIC"
   ]
 }
