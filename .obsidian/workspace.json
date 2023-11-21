@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "53d27d53724107b5",
+        "id": "61869017e2aa4c08",
         "type": "tabs",
         "children": [
           {
-            "id": "543a7b0ca39ac041",
+            "id": "446f05a14cf63107",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.powershell基础.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84eb867c77554188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17.powershell分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33f4674d89399320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18.综合防御.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17f701a204d55d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19.attck &人工智能.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "19.attck &人工智能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "19.attck &人工智能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "19.attck &人工智能.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -192,20 +147,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b17f701a204d55d5",
+  "active": "446f05a14cf63107",
   "lastOpenFiles": [
-    "域环境.md",
+    "16.powershell基础.md",
+    "17.powershell分析.md",
     "18.综合防御.md",
+    "6.od基础.md",
+    "19.attck &人工智能.md",
+    "域环境.md",
     "13.针对pe结构的综合分析.md",
     "10.常见的pe结构的恶意代码脱壳.md",
     "9.常见的pe结构的恶意代码加壳.md",
     "8.行为分析.md",
     "7.静态分析的结构和经验.md",
-    "6.od基础.md",
     "5.IDA.md",
     "4.PE结构.md",
     "3.汇编.md",
-    "19.attck &人工智能.md",
     "PIC/18.综合防御/image-2023071222 2.png",
     "PIC/18.综合防御/image-2023071222 1.png",
     "PIC/18.综合防御/image-2023071222.png",
@@ -215,9 +172,7 @@
     "PIC/18.综合防御/image-2023071221.png",
     "PIC/18.综合防御/image-2023071208.png",
     "PIC/18.综合防御",
-    "17.powershell分析.md",
     "未命名",
-    "16.powershell基础.md",
     "未命名.canvas",
     "PIC/16.powershell基础/image-2023070907.png",
     "PIC/16.powershell基础/image-20230709072811380.png",
