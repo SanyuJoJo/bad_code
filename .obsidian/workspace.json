@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "68db7ab1021e3883",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,8 +158,9 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "446f05a14cf63107",
+  "active": "e71a97c6d8bf0150",
   "lastOpenFiles": [
+    "未命名",
     "16.powershell基础.md",
     "17.powershell分析.md",
     "18.综合防御.md",
@@ -172,7 +184,6 @@
     "PIC/18.综合防御/image-2023071221.png",
     "PIC/18.综合防御/image-2023071208.png",
     "PIC/18.综合防御",
-    "未命名",
     "未命名.canvas",
     "PIC/16.powershell基础/image-2023070907.png",
     "PIC/16.powershell基础/image-20230709072811380.png",
@@ -190,7 +201,6 @@
     "-/常见的pe结构的恶意代码反反调试.md",
     "12.常见的pe结构的恶意代码反反调试.md",
     "-/常见的pe结构的恶意代码加壳.md",
-    "-/域环境.md",
     "-/code/反调试/1/test.exe",
     "-/code/反调试/1/test.cpp",
     "-/code/反调试/1",
