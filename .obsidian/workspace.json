@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.针对pe结构的综合分析.md",
+                "file": "8.行为分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "命令",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13.针对pe结构的综合分析.md",
+                "file": "8.行为分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13.针对pe结构的综合分析.md",
+                "file": "8.行为分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13.针对pe结构的综合分析.md"
+                "file": "8.行为分析.md"
               }
             }
           }
@@ -166,6 +167,10 @@
   },
   "active": "68db7ab1021e3883",
   "lastOpenFiles": [
+    "7.静态分析的结构和经验.md",
+    "4.PE结构.md",
+    "8.行为分析.md",
+    "13.针对pe结构的综合分析.md",
     "10.常见的pe结构的恶意代码脱壳.md",
     "5.IDA.md",
     "域环境.md",
@@ -175,11 +180,7 @@
     "17.powershell分析.md",
     "18.综合防御.md",
     "6.od基础.md",
-    "13.针对pe结构的综合分析.md",
     "9.常见的pe结构的恶意代码加壳.md",
-    "8.行为分析.md",
-    "7.静态分析的结构和经验.md",
-    "4.PE结构.md",
     "3.汇编.md",
     "PIC/18.综合防御/image-2023071222 2.png",
     "PIC/18.综合防御/image-2023071222 1.png",
